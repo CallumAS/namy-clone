@@ -1,0 +1,10 @@
+{
+    "org": "whois.comlaude.com",
+    "": "whois.comlaude.com",
+    "_": {
+        "ip": {
+            "host": "whois.comlaude.com",
+            "query": "n + $addr\r\n"
+        }
+    }
+}
